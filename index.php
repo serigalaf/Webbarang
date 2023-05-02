@@ -18,6 +18,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div>
         <div>
             <h1> Menampilkan data Mysql </h1>
+            <h1> iyeu naon </h1>
             <p>Halaman menampilkan data MY Sql</p>
         </div>
 
